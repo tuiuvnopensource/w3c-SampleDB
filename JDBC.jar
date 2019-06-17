@@ -1,0 +1,3 @@
+ MySQL: mysql-connector-java-5.1.33.jar 
+ SQL: sqljdbc4.jar hoặc jtds-1.3.1.jar 
+ Oracle: ojdbc6.jar 
